@@ -51,7 +51,7 @@ To use this project locally, follow these steps:
 
 ## Data
 
-The input data consists of students' scores and attributes. The model predicts their math score based on this data.
+The input data consists of student's scores and attributes. The model predicts their math score based on this data.
 
 ## Learning Resources
 
